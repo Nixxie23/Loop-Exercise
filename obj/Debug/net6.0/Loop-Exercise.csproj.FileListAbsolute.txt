@@ -1,0 +1,15 @@
+C:\Users\taylo\repos\Loop-Exercise\bin\Debug\net6.0\Loop-Exercise.exe
+C:\Users\taylo\repos\Loop-Exercise\bin\Debug\net6.0\Loop-Exercise.deps.json
+C:\Users\taylo\repos\Loop-Exercise\bin\Debug\net6.0\Loop-Exercise.runtimeconfig.json
+C:\Users\taylo\repos\Loop-Exercise\bin\Debug\net6.0\Loop-Exercise.dll
+C:\Users\taylo\repos\Loop-Exercise\bin\Debug\net6.0\Loop-Exercise.pdb
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.csproj.AssemblyReference.cache
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.AssemblyInfoInputs.cache
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.AssemblyInfo.cs
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.dll
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\refint\Loop-Exercise.dll
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.pdb
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\Loop-Exercise.genruntimeconfig.cache
+C:\Users\taylo\repos\Loop-Exercise\obj\Debug\net6.0\ref\Loop-Exercise.dll
